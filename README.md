@@ -1,5 +1,11 @@
 ## Group-D
 ## Team Members
-Shiwangi
+Shiwgi
 
-Avinash Kumae
+Avish Kumae
+
+bablu
+
+santa
+banta
+
