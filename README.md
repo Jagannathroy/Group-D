@@ -1,14 +1,14 @@
- m,x , d,d, d, ,,d vnds
-  kds ,ds v,d sv, ds,vd
-   cm,f, ,f v dsflkvnlknvlnsdv
-    ,kd v,ds nvlkdsnl nd 
-    m d , ,dm knkkkkkkknlkdnlvnldsmnvndsmnv;dsmv;mdsv;m;vml;sdvm;sdmvl;msdvlmdvmdvknvlnsdalvnldsk nds ns dsm, ,sd nds 
-     .,d .sd kds nsldkn lkdsn .ldn . .n kdsn lsdnvirgj49u40ildnvlnsb;lmsb;mv;mv;dvm;dsvm;sd . ds
-     # Group-D
-.,vn.fdvfmv;mdsmvmdl;vml;sdmvl;mdsl;vmd
- dsm, ds.fdskmn kdm md;v.dsmnv;lkndsvlndsvlndvlndslsnldvnldsvds
- v sdlkvnldsmv;.dsmv;lmdsv;md;vm;dsmvsd
+# Introduction By Avinash:-
+
+I'm Avinash Kumar From Dhanbad Jharkhand.
+
+## Eduction:-
+
+- Currently I'm Pursuing B.Tech (Electronics And Communication Engineering) At Haldia Institute Of Technology.
+- I'have done my Intermediate (SCIENCE)From DAV PUBLIC SCHOOL,MOONIDIH,DHANBAD
+- I'have done my Matriculation From GGCET ST.Xavier's International School,Dhanbad,Jharkhand.
+
 ## Skills:-
 
-,d ,ds vdnlvnlkdsnvlndsklvnldsnvndsvm;dmv;dmv;mdsvds
-vsdvkldsnvldsnvlmsdvsd
+Currently I'm Learning C Language ,HTML.CSS,JAVASCRIPT
+## intrest:-
