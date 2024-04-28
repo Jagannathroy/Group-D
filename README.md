@@ -8,10 +8,11 @@ I'm Avinash Kumar From Dhanbad Jharkhand.
 
 ## Eduction:-
 
-- Currently I'm Pursuing B.Tech (Electronics And Communication Engineering) At Haldia Institute Of Technology.
-- I'have done my Intermediate (SCIENCE)From DAV PUBLIC SCHOOL,MOONIDIH,DHANBAD
-- I'have done my Matriculation From GGCET ST.Xavier's International School,Dhanbad,Jharkhand.
+- I dont like studies.
+- I sleep whole day.
+- hum kabhi school hi nahi gaye.
+- mujhe sona he
 
 ## Skills:-
 
-Currently I'm Learning C Language ,HTML.CSS,JAVASCRIPT
+I can eat 20 samosas at a time
