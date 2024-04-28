@@ -1,4 +1,4 @@
 # Group-D
-## Team Members
-- Shiwangi
-- Avinash Kumar
+## USELESS TEAM MEMBERS
+- Shiwangi 
+- BAD BOIIIIII Avinash KOOL BANDAAA
